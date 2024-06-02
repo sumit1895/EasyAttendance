@@ -1,4 +1,7 @@
 # EasyAttendance
+
+![app ui](https://github.com/sumit1895/EasyAttendance/assets/116833037/8608ef21-d090-4697-877b-fd0ef916af1a)
+
 An Android app which uses Realm database to make attendance process simple inside classroom.
 Introduction
 This app simplifies the process of taking attendance in classroom. It has a very clean and elegant UI which is teacher-friendly.
