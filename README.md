@@ -1,4 +1,4 @@
-# EasyAttendance
+EasyAttendance
 
 ![app ui](https://github.com/sumit1895/EasyAttendance/assets/116833037/8608ef21-d090-4697-877b-fd0ef916af1a)
 
